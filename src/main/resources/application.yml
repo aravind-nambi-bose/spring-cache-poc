@@ -1,0 +1,4 @@
+bose:
+  header:
+    cache:
+      max-age: 172800
